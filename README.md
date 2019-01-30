@@ -1,1 +1,1 @@
-# Denoising-Autoencoder-Optimization
+# Denoising-Autoencoder and Optimization Methods
