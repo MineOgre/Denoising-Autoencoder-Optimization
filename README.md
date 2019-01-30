@@ -1,3 +1,3 @@
 # 1. Denoising-Autoencoder and Optimization Methods
 
-# 1. Computational Graphs
+# 2. Computational Graphs and Derivatives
